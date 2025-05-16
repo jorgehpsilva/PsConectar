@@ -1,4 +1,3 @@
-@@ -0,0 +1,64 @@
 # Projeto Fullstack de Autenticação e CRUD de Usuários
 
 Projeto desenvolvido com NestJS (backend) e ReactJS (frontend) usando TypeScript. Implementa autenticação JWT, rotas protegidas, CRUD de usuários e estilização com TailwindCSS.
